@@ -1,0 +1,120 @@
+/* body{
+  padding: 0;
+  margin: 0;
+}
+
+#header{
+  background: black;
+  color: rgba(233, 20, 20, 0.877);
+  padding: 0.5rem;
+  text-align: start;
+}
+
+#nav-bar{
+  display: flex;
+  background: #0099ff;
+}
+
+#nav-bar li{
+  list-style-type: none;
+  padding: 1.5rem;
+  font-weight: bold;
+}
+
+#nav-bar li:hover{
+  color:rgb(58, 54, 54);
+  cursor: pointer;
+}
+
+
+
+.todo{
+  padding-top: 1rem;
+  padding-left: 1rem
+}
+.new-item{
+  color: grey
+}
+#text{
+border: 1px  #0099ff solid;
+border-radius: 4px;
+padding-right: 8rem;
+padding-top: 1rem;
+padding-bottom: 1rem;
+}
+.add-new{
+  background: #0099ff;
+  border-radius: 6px;
+  padding: 0.7rem
+}
+
+#footer{
+  position: absolute;
+  top: 100%;
+  width: 100%;
+ background: gray;
+ padding: 0.4rem;
+ text-align: center
+} 
+table {
+  padding-top: 2rem;
+  border-collapse: collapse;
+}
+td,th{
+  border: 1px solid;
+} */
+
+.form {
+  display: flex;
+  background: rgba(128, 128, 128, 0.041);
+}
+label {
+  color: blue;
+  font-weight: bold;
+}
+
+.submit-form {
+  background: rgba(0, 140, 255, 0.972);
+  padding: 1rem;
+  width: 20rem;
+  border-radius: 4px;
+  font-weight: bold;
+  color: white;
+  border: "none";
+}
+
+.form-val {
+  color: rgb(16, 121, 2);
+  font-weight: bold;
+  word-spacing: 3px;
+  border-bottom: 4px solid rgba(255, 0, 0, 0.966);
+  border-top: 4px solid red;
+  font-size: 2rem;
+}
+
+.xyz {
+  width: 20rem;
+  border-radius: 4px;
+  height: 2rem;
+}
+.xyz1 {
+  width: 20rem;
+  border-radius: 4px;
+  height: 5rem;
+}
+
+.print {
+  padding: 0rem 0 0 5rem;
+}
+
+.print > h3 {
+  font-weight: bold;
+  font-size: 2rem;
+  color: rgb(70, 6, 25);
+  word-spacing: 5px;
+}
+.span{
+  font-weight: bold;
+  color:rgb(59, 15, 15);
+  font-size: 1.2rem
+}
